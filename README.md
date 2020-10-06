@@ -1,4 +1,4 @@
-# Projeto para estudo do uso de Paralax, controle de teclado, animação e sons.
+***Projeto para estudo do uso de Paralax, controle de teclado, animação e sons.***
 
 ```diff 
 ! Helicoptero
