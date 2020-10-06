@@ -1,4 +1,4 @@
-#Estudo do uso de Paralax, controle de teclado, animação e sons
+# Estudo do uso de Paralax, controle de teclado, animação e sons
 
 ```diff 
 ! Helicoptero
